@@ -940,7 +940,3 @@ if(move_uploaded_file($_FILES['f1']['tmp_name'],getcwd()."\\img4\\$fname"))
 <script src="temp/js/main.js"></script>	
 </body>
 </html>
-<?php
-include './admin/config.php';
-
-?>
